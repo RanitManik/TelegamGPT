@@ -96,9 +96,9 @@ You can configure the bot by modifying the following variables in `main.py`:
 
 # Chat Files
 
-- `chats/chat1.txt`: [Sample chat file 1](chats/chat1.txt) — describe your chat content
-- `chats/chat2.txt`: [Sample chat file 2](chats/chat2.txt) — describe your chat content
-- `chats/chat3.txt`: [Sample chat file 3](chats/chat3.txt) — describe your chat content
+- `chats/chat1.txt`: [Sample chat file 1](chats/chat1.txt) — my resume
+- `chats/chat2.txt`: [Sample chat file 2](chats/chat2.txt) — whatsapp chat bwtween me and my friend
+- `chats/chat3.txt`: [Sample chat file 3](chats/chat3.txt) — a simple AI generated friends chat
 
 # Contributing
 
