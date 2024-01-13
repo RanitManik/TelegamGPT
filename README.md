@@ -140,12 +140,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Contact
 
-- Name - [Your Name](https://github.com/your-username)
-- Email - your.email@example.com
-- Project Link - [https://github.com/RanitManik/TelegamGPT](https://github.com/RanitManik/TelegamGPT)
+Connect with me through various portals:
 
----
-
-<p align="center"> If you like my work, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
-
-<p align="center"><a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+- [Email](mailto:ranitmanik.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [GitHub](https://github.com/RanitManik)
+- [Instagram](https://www.instagram.com/ranit_manik_/)
+- [Facebook](https://www.facebook.com/RanitKumarManik/)
+- [Twitter](https://twitter.com/RANIT_MANIK)
+- [Codepen](https://codepen.io/RANIT-MANIK)
+- [Replit](https://replit.com/@ranit-manik)
