@@ -25,6 +25,7 @@ Welcome to the comprehensive setup guide for the ChatGPT Text Generation Service
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgment](#acknowledgment)
 
 ## Overview
 
@@ -205,3 +206,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <td><a href="https://twitter.com/RANIT_MANIK" target="_blank">Twitter</a></td>
   </tr>
 </table>
+
+## Acknowledgment
+
+I want to express my gratitude to [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry) for his insightful tutorial on creating the [myGPT Discord Chatbot using OpenAI's GPT-3.5 Turbo model](https://youtu.be/BP-w99ZINTc?si=tcUeGGh3MKCYODuk), which served as a crucial guide. Special thanks to contributors and the open-source community for enhancing the project. The inspiration behind TelegramGPT arose from the need for an advanced Telegram chatbot leveraging OpenAI's GPT-3.5 Turbo.
+
+Best regards, Ranit Manik
